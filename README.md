@@ -1,2 +1,2 @@
 # RT
-Reaction Technologies helps protect Athletes through Neuromuscular Training Methodology 
+RT helps protect Athletes through Neuromuscular Training Methodology 
