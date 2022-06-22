@@ -1,5 +1,4 @@
 # RT
-RT helps protect Athletes through Neuromuscular Training Methodology 
 
 This repo aims to observe how ISD's in Texas are spending grants dispursed by the ARP Act: Elementary and Secondary Emergency Relief (ESSR)
 
